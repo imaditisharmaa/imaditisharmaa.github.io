@@ -1,7 +1,11 @@
 const typedTextSpan = document.querySelector(".typed-text");
 const cursorSpan = document.querySelector(".cursor");
 
-const textArray = ["Aditi Sharmaa", "Aditi Sharmaa"];
+const textArray = ["Aditi Sharma","Biomedical Engineer", 
+"Medical Technology Enthusiast",
+"Healthcare Enthusiast",
+"Research Aficionado",
+"Medical Data Analyst"];
 const typingDelay = 200;
 const erasingDelay = 100;
 const newTextDelay = 2000; // Delay between current and next text
